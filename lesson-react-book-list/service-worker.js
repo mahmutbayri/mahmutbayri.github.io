@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/lesson-react-book-list/precache-manifest.5340e202a23c6df7b0f97890f3aeb4a5.js"
+  "/lesson-react-book-list/precache-manifest.125533a37cabac2ef13cd59c27c1fbbd.js"
 );
 
 workbox.clientsClaim();
