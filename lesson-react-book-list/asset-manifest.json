@@ -1,11 +1,11 @@
 {
-  "main.js": "/static/js/main.ffbcf6f0.chunk.js",
-  "main.js.map": "/static/js/main.ffbcf6f0.chunk.js.map",
-  "static/js/1.e35d01ff.chunk.js": "/static/js/1.e35d01ff.chunk.js",
-  "static/js/1.e35d01ff.chunk.js.map": "/static/js/1.e35d01ff.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.b5fc908e6be4660d6e6ff7dec3a0f8de.js": "/precache-manifest.b5fc908e6be4660d6e6ff7dec3a0f8de.js",
-  "service-worker.js": "/service-worker.js"
+  "main.js": "/lesson-react-book-list/static/js/main.ffbcf6f0.chunk.js",
+  "main.js.map": "/lesson-react-book-list/static/js/main.ffbcf6f0.chunk.js.map",
+  "static/js/1.e35d01ff.chunk.js": "/lesson-react-book-list/static/js/1.e35d01ff.chunk.js",
+  "static/js/1.e35d01ff.chunk.js.map": "/lesson-react-book-list/static/js/1.e35d01ff.chunk.js.map",
+  "runtime~main.js": "/lesson-react-book-list/static/js/runtime~main.e92c3909.js",
+  "runtime~main.js.map": "/lesson-react-book-list/static/js/runtime~main.e92c3909.js.map",
+  "index.html": "/lesson-react-book-list/index.html",
+  "precache-manifest.f1ea8dc6f2b47cd784a614755d37893c.js": "/lesson-react-book-list/precache-manifest.f1ea8dc6f2b47cd784a614755d37893c.js",
+  "service-worker.js": "/lesson-react-book-list/service-worker.js"
 }
