@@ -4,15 +4,15 @@ self.__precacheManifest = [
     "url": "/lesson-react-book-list/static/js/runtime~main.e92c3909.js"
   },
   {
-    "revision": "ffbcf6f0b466daf1cd92",
-    "url": "/lesson-react-book-list/static/js/main.ffbcf6f0.chunk.js"
+    "revision": "1a546a0f22dab4ce2090",
+    "url": "/lesson-react-book-list/static/js/main.1a546a0f.chunk.js"
   },
   {
     "revision": "e35d01ff1781b9eefecd",
     "url": "/lesson-react-book-list/static/js/1.e35d01ff.chunk.js"
   },
   {
-    "revision": "1c57543cd76f36baa53c504743c856fd",
+    "revision": "ac6c2b62c3ab8a5bda2c781af32363f0",
     "url": "/lesson-react-book-list/index.html"
   }
 ];
