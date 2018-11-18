@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/lesson-react-weather-forecast/static/js/runtime~main.d93215fb.js"
   },
   {
-    "revision": "cfe7ff4ca05225a45f3c",
-    "url": "/lesson-react-weather-forecast/static/js/main.cfe7ff4c.chunk.js"
+    "revision": "eb18eb80735e8973c2f3",
+    "url": "/lesson-react-weather-forecast/static/js/main.eb18eb80.chunk.js"
   },
   {
     "revision": "b0863a8737d0826220ee",
     "url": "/lesson-react-weather-forecast/static/js/1.b0863a87.chunk.js"
   },
   {
-    "revision": "cfe7ff4ca05225a45f3c",
+    "revision": "eb18eb80735e8973c2f3",
     "url": "/lesson-react-weather-forecast/static/css/main.d4db4df5.chunk.css"
   },
   {
-    "revision": "1c57c171dabd146edd64abe5434179a1",
+    "revision": "5d5487e6b68e1784b51eb0be9f486d41",
     "url": "/lesson-react-weather-forecast/index.html"
   }
 ];
